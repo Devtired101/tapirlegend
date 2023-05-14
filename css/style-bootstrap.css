@@ -1,0 +1,14 @@
+.containers {
+  background-color: #fff7d4;
+  min-height: 2000px;
+}
+
+#contact {
+  background-color: #ffd95a;
+}
+section {
+  padding-top: 2rem;
+}
+#about {
+  background-color: #ffd95a;
+}
